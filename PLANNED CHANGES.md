@@ -9,6 +9,7 @@
 - Add video support to camera
 - Build activity to view own posts
 - Enable view profile for other users
+- Fix the follow people bug
 
 ## Backend Features to be added:
 
