@@ -1,7 +1,7 @@
 # Planned Changes
 
 --- 
-## Improvements to be done :
+## Improvements/Fixes to be done :
 
 - Adding loading dialog/spinner on every activity
 - Build local cache for data to be stored to prevent fetching every time
@@ -10,6 +10,10 @@
 - Build activity to view own posts
 - Enable view profile for other users
 - Fix the follow people bug
+- Discover page not working
+- Search is not implemented
+- Profile page following/followers not accurate
+
 
 ## Backend Features to be added:
 
